@@ -802,6 +802,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     Android: MRTK_UX_DATABINDING_THEMING_ENABLED
+    Standalone: MRTK_UX_DATABINDING_THEMING_ENABLED
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
